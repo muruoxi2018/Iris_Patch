@@ -1,0 +1,6 @@
+E:\Git\Iris_patch\Iris_patch\bin\Release\Iris_patch.exe.config
+E:\Git\Iris_patch\Iris_patch\bin\Release\Iris_patch.exe
+E:\Git\Iris_patch\Iris_patch\bin\Release\Iris_patch.pdb
+E:\Git\Iris_patch\Iris_patch\obj\Release\Iris_patch.csproj.CoreCompileInputs.cache
+E:\Git\Iris_patch\Iris_patch\obj\Release\Iris_patch.exe
+E:\Git\Iris_patch\Iris_patch\obj\Release\Iris_patch.pdb

@@ -1,0 +1,7 @@
+E:\Git\Iris_patch\Iris_patch\bin\Debug\Iris_patch.exe.config
+E:\Git\Iris_patch\Iris_patch\bin\Debug\Iris_patch.exe
+E:\Git\Iris_patch\Iris_patch\bin\Debug\Iris_patch.pdb
+E:\Git\Iris_patch\Iris_patch\obj\Debug\Iris_patch.csprojResolveAssemblyReference.cache
+E:\Git\Iris_patch\Iris_patch\obj\Debug\Iris_patch.csproj.CoreCompileInputs.cache
+E:\Git\Iris_patch\Iris_patch\obj\Debug\Iris_patch.exe
+E:\Git\Iris_patch\Iris_patch\obj\Debug\Iris_patch.pdb
